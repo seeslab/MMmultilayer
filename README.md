@@ -37,7 +37,7 @@ Nodes(links) and layers should be numbered consecutively [0,...,#nodes] , [0,...
 
 The format of the files should be a 4 column file:
 
-node1 node2 layer interaction_type
+layer node1 node2 interaction_type
 
 Columns must be separated with simple spaces. The files drugstrain0.dat and drigstest0.dat provide an example of input file.
 
